@@ -1,0 +1,8 @@
+﻿  03_ManualRead.cpp
+  RunExample.cpp
+  stdafx.cpp
+  Generating Code...
+RunExample.obj : error LNK2019: unresolved external symbol "public: __cdecl ManualWrite::ManualWrite(void)" (??0ManualWrite@@QEAA@XZ) referenced in function main
+RunExample.obj : error LNK2019: unresolved external symbol "public: __cdecl ManualWrite::~ManualWrite(void)" (??1ManualWrite@@QEAA@XZ) referenced in function main
+lib\x86\PCANBasic.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Project\Test\PCAN\x64\Debug\03_ManualRead.exe : fatal error LNK1120: 2 unresolved externals
